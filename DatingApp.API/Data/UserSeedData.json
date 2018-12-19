@@ -13,7 +13,7 @@
     "Country": "Swaziland",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women79.jpg",
+        "url": "https://randomuser.me/api/portraits/women/79.jpg",
         "isMain": true,
         "description": "Consequat culpa deserunt officia proident et minim consectetur amet velit elit duis."
       }
@@ -33,7 +33,7 @@
     "Country": "Niue",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women26.jpg",
+        "url": "https://randomuser.me/api/portraits/women/26.jpg",
         "isMain": true,
         "description": "Culpa id do consequat officia reprehenderit velit voluptate deserunt elit velit ipsum."
       }
@@ -53,7 +53,7 @@
     "Country": "Poland",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women74.jpg",
+        "url": "https://randomuser.me/api/portraits/women/74.jpg",
         "isMain": true,
         "description": "Eu do sunt in magna."
       }
@@ -73,7 +73,7 @@
     "Country": "Lebanon",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women44.jpg",
+        "url": "https://randomuser.me/api/portraits/women/44.jpg",
         "isMain": true,
         "description": "Et duis officia adipisicing do."
       }
@@ -93,7 +93,7 @@
     "Country": "Saint Vincent and The Grenadines",
     "Photos": [
       {
-        "url": "https://randomuser.me/api/portraits/women28.jpg",
+        "url": "https://randomuser.me/api/portraits/women/28.jpg",
         "isMain": true,
         "description": "Velit commodo esse ullamco culpa pariatur adipisicing ex incididunt."
       }
@@ -113,7 +113,7 @@
       "Country": "St. Pierre and Miquelon",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/men96.jpg",
+          "url": "https://randomuser.me/api/portraits/men/96.jpg",
           "isMain": true,
           "description": "Tempor ad ut minim in eu minim."
         }
@@ -133,7 +133,7 @@
       "Country": "Malta",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/men10.jpg",
+          "url": "https://randomuser.me/api/portraits/men/10.jpg",
           "isMain": true,
           "description": "Ullamco nisi adipisicing tempor dolor ex et minim sit."
         }
@@ -153,7 +153,7 @@
       "Country": "Libya",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/men74.jpg",
+          "url": "https://randomuser.me/api/portraits/men/74.jpg",
           "isMain": true,
           "description": "Lorem aliqua incididunt esse sint dolore nostrud culpa."
         }
@@ -173,7 +173,7 @@
       "Country": "Kyrgyzstan",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/men39.jpg",
+          "url": "https://randomuser.me/api/portraits/men/39.jpg",
           "isMain": true,
           "description": "Labore veniam elit minim cillum reprehenderit dolor nulla mollit magna."
         }
@@ -193,7 +193,7 @@
       "Country": "Yemen",
       "Photos": [
         {
-          "url": "https://randomuser.me/api/portraits/men68.jpg",
+          "url": "https://randomuser.me/api/portraits/men/68.jpg",
           "isMain": true,
           "description": "Ipsum ut enim consectetur tempor adipisicing exercitation incididunt elit."
         }
